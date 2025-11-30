@@ -1,0 +1,348 @@
+{
+  "api": {
+    "url": "https://dashscope.aliyuncs.com/api/v1/apps/d93cb258746a4c25a49c6c0a8edb0ead/completion",
+    "key": "sk-3dac8516f796455f8f936e144b8af931",
+    "appId": "d93cb258746a4c25a49c6c0a8edb0ead",
+    "description": "API配置信息，可在界面中配置或在此文件中设置默认值"
+  },
+  "textDisplay": {
+    "speed": 50,
+    "description": "文字显示速度，单位：毫秒/字"
+  },
+  "ui": {
+    "title": "AR文物智能介绍系统",
+    "subtitle": "通过AR识别文物，查看介绍并与AI对话",
+    "description": "UI文本配置"
+  },
+  "mindFile": {
+    "path": "./mind/zhongshan4 (2).mind",
+    "description": "MindAR识别文件路径"
+  },
+  "artifacts": {
+    "0": {
+      "title": "这",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 0,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "1": {
+      "title": "么",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 1,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "2": {
+      "title": "近",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 2,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "3": {
+      "title": "那",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 3,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "4": {
+      "title": "美",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 4,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "5": {
+      "title": "周",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 5,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "6": {
+      "title": "末",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 6,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "7": {
+      "title": "到",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 7,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "8": {
+      "title": "河",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 8,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "9": {
+      "title": "北",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 9,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "10": {
+      "title": "张",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 10,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "11": {
+      "title": "展",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 11,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "12": {
+      "title": "祝",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 12,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    },
+    "13": {
+      "title": "郭",
+      "content": "",
+      "buttons": {
+        "button1": {
+          "text": "中山篆",
+          "content": "请详细介绍一下中山篆的历史背景和重要意义。"
+        },
+        "button2": {
+          "text": "古中山国",
+          "content": "请解释一下古中山国的历史和特点。"
+        }
+      },
+      "model": {
+        "id": "Fe_foot",
+        "path": "./model/Fe_foot.gltf",
+        "targetIndex": 13,
+        "position": "0 -0.25 0",
+        "rotation": "0 0 0",
+        "scale": "1 1 1",
+        "enableAnimation": true
+      }
+    }
+  },
+  "version": "1.0.0",
+  "description": "AR文物智能介绍系统配置文件"
+}
+
